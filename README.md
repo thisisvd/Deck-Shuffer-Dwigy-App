@@ -1,7 +1,6 @@
-# 1599024-Android-Kotlin-Deck-Shuffler
+Android-Kotlin-Deck-Shuffler-Dwigy
 
-
-Hey Hacker!
+Hey Ranker!
 
 Knowledge about a Deck of playing cards has always been a part of mathematics problems which are fun solving. Today we're taking it a notch above to create an interactive experience of shuffling and swapping.
 
